@@ -1,8 +1,8 @@
 [npm-image]: https://img.shields.io/npm/v/simple-base64.svg
 [npm-url]: https://www.npmjs.com/package/simple-base64
 
-# nodejs-simple-base64 [![npm][npm-image]][npm-url]
-Simple base64 encode/decode for nodeJS
+# simple-base64 [![npm][npm-image]][npm-url]
+Simple base64 encode/decode for JavaScript
 
 ## Installation
 ```shell
