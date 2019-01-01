@@ -1,5 +1,5 @@
 {
-  "name": "node-simple-base64",
+  "name": "nodejs-simple-base64",
   "version": "1.0.0",
   "description": "simple base64 encode/decode for nodeJS",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/evan-moon/node-simple-base64.git"
+    "url": "git+https://github.com/evan-moon/nodejs-simple-base64.git"
   },
   "keywords": [
     "node",
@@ -20,9 +20,9 @@
   "author": "Evan Moon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/evan-moon/node-simple-base64/issues"
+    "url": "https://github.com/evan-moon/nodejs-simple-base64/issues"
   },
-  "homepage": "https://github.com/evan-moon/node-simple-base64#readme",
+  "homepage": "https://github.com/evan-moon/nodejs-simple-base64#readme",
   "dependencies": {
     "nodejs-utf8": "^1.0.0"
   }
