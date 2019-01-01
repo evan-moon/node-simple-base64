@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-simple-base64",
+  "name": "simple-base64",
   "version": "1.0.0",
   "description": "simple base64 encode/decode for nodeJS",
   "main": "index.js",
